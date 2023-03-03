@@ -1,1 +1,1 @@
-window.open("https://serhandonertas.github.io/sifre/")
+window.open("https://serhandonertas.github.io/sifre/");
